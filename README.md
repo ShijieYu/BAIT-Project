@@ -9,4 +9,6 @@ stop words processing, hashtags, usernames, common sourses, time trend, influenc
 
 word cloud in *Part C*;
 
-sentiment analysis in *Part D*
+sentiment analysis in *Part D*.
+
+For tweets collection functions, the code is in **TwitterCollector.py**.
